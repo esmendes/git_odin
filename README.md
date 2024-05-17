@@ -1,1 +1,3 @@
 # git_odin
+This is my first odin project repo
+hello odin! enjoy it...
